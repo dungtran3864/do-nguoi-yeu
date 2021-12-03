@@ -1,23 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import 'animate.css';
+import kittenImg from './img/kitten-love.gif';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p className="animate__animated animate__slideInLeft animate__infinite">Anh chin nhũi, anh yêu em nhất ❤️❤️❤️️</p>
+      <img src={kittenImg} alt="cat sorry" width="250" />
     </div>
   );
 }
