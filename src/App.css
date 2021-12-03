@@ -5,8 +5,8 @@ body {
 .App p {
   font-size: 5em;
   overflow: hidden;
-  text-align: end;
-  margin-right: -17em;
+  margin-left: -35em;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .App img {
@@ -16,6 +16,6 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.animate__animated.animate__slideInLeft {
+.animate__animated.animate__slideInRight {
   --animate-duration: 10s;
 }
