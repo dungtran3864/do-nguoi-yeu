@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/do-nguoi-yeu/static/css/main.a40f3bfc.chunk.css",
+    "main.js": "/do-nguoi-yeu/static/js/main.7171077d.chunk.js",
+    "main.js.map": "/do-nguoi-yeu/static/js/main.7171077d.chunk.js.map",
+    "runtime-main.js": "/do-nguoi-yeu/static/js/runtime-main.991a32ba.js",
+    "runtime-main.js.map": "/do-nguoi-yeu/static/js/runtime-main.991a32ba.js.map",
+    "static/css/2.a1596f27.chunk.css": "/do-nguoi-yeu/static/css/2.a1596f27.chunk.css",
+    "static/js/2.fd5d1504.chunk.js": "/do-nguoi-yeu/static/js/2.fd5d1504.chunk.js",
+    "static/js/2.fd5d1504.chunk.js.map": "/do-nguoi-yeu/static/js/2.fd5d1504.chunk.js.map",
+    "static/js/3.091aa992.chunk.js": "/do-nguoi-yeu/static/js/3.091aa992.chunk.js",
+    "static/js/3.091aa992.chunk.js.map": "/do-nguoi-yeu/static/js/3.091aa992.chunk.js.map",
+    "index.html": "/do-nguoi-yeu/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/do-nguoi-yeu/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.a40f3bfc.chunk.css.map": "/do-nguoi-yeu/static/css/main.a40f3bfc.chunk.css.map",
+    "static/js/2.fd5d1504.chunk.js.LICENSE.txt": "/do-nguoi-yeu/static/js/2.fd5d1504.chunk.js.LICENSE.txt",
+    "static/media/kitten-love.6027e36d.gif": "/do-nguoi-yeu/static/media/kitten-love.6027e36d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.991a32ba.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.fd5d1504.chunk.js",
+    "static/css/main.a40f3bfc.chunk.css",
+    "static/js/main.7171077d.chunk.js"
+  ]
+}
